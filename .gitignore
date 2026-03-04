@@ -1,6 +1,5 @@
 node_modules/
 dist/
-.env
 *.tsbuildinfo
 drizzle/meta/
 .vite/
@@ -37,3 +36,4 @@ tmp/
 .vscode/
 .claude/settings.local.json
 .paperclip-local/
+config.bat
